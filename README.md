@@ -1,7 +1,7 @@
 # Hand Code
 Implementing dapper
 
-### Create new project
+### Create a new project
 
 ```sh
     dotnet new web -o src
