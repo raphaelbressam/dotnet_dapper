@@ -16,7 +16,7 @@ Implementing dapper
 ### Configure a SQL Lite connection string
 
 ```sh
-    dotnet add package Dapper
+    dotnet add package System.Data.SQLite
 ```
 
 ### Reference
